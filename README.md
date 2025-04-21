@@ -153,7 +153,8 @@ This project uses open-source tools and datasets. We thank the authors and maint
 - 🤗 [HuggingFace Transformers](https://github.com/huggingface/transformers) — for model definitions and training utilities  
 - 🧠 [PEFT: Parameter-Efficient Fine-Tuning](https://github.com/huggingface/peft) — for LoRA integration  
 - 📚 [AGNews Dataset](https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset) — for providing the classification benchmark  
-- 🎓 NYU Tandon’s ECE-GY 7123 Deep Learning course — for designing a research-focused, application-driven project framework  
+- 🎓 NYU Tandon’s ECE-GY 7123 Deep Learning course — for designing a research-focused, application-driven project framework
+- Chat GPT has been instrumental in reformatting my codes into cleaner versions and debugging, along with help in making the language and structure of the project report better.
 
 ---
 
